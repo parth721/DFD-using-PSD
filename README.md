@@ -100,7 +100,7 @@ By analyzing these patterns, we can give our classifier (MobileNetV2) a better c
 ## Key Files and Folders
 
 - `notebooks/` – Jupyter notebooks for each step (frame extraction, face cropping, PSD calculation, training, etc.) (Private)
-- `utils/` – Helper functions for PSD calculation. (public)
+- `evaluationodPSDmethod` – Helper functions for PSD calculation. (public)
 - `models/` – Scripts or checkpoints for MobileNetV2 training and evaluation. (public) 
 
 ---
